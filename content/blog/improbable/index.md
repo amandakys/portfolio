@@ -22,7 +22,7 @@ Other responsibilities include:
 
 ## PROJECTS
 
-As these projects are ongoing, I am limited in the details and visuals of these projects that I can provide, but I have to provide basic overview.
+As these projects are ongoing, I am limited in the details and visuals of these projects that I can provide, but I have provided a basic overview.
 
 <h4 align="center">CONTENTS</h4>
 <p align="center">
@@ -36,9 +36,11 @@ As these projects are ongoing, I am limited in the details and visuals of these 
 
 #### DESIGNING THE CREATE DEPLOYMENT FLOW
 
-I was asked to propose a UI flow for creating a new deployment, a process current only possible using a command line tool. This required investigation into this CLI process and what information a user was expected to provide when creating a deployment.
+I was asked to propose a UI flow for creating a new deployment, a process currently only possible using a command line tool. This required investigation into this CLI process and what information a user was expected to provide when creating a deployment.
 
-With a list of required user inputs, I began to desing a UI wizard to guide users through the process. For certain stages, user inputs were more complex than just text and dropdowns. For example,
+With a list of required user inputs, I began to design a UI wizard to guide users through the process. For certain stages, user inputs were more complex than just text and dropdowns. For example, users needed to be able to select from a list of available snapshots and assemblies or upload their own zip files. The launch configuration was a JSON file that also needed to be uploaded, but users expressed strong interest in being able to modify and generate the file through the UI.
+
+As a result, a secondary task of building a JSON file generator UI was cut from the main task. This UI would be integrated into the Config step of the Create a Deployment wizard.
 
 ![create-modal.png](./create-modal.png)
 
@@ -52,9 +54,11 @@ With a list of required user inputs, I began to desing a UI wizard to guide user
 
 #### SCALABLE SEARCH
 
-Following the redesign of the Console to support large numbers of deployments, a need for the ability to search and filter these deployments quickly became evident.
+Following the redesign of the Console to support large numbers of deployments (10,000+), a need for the ability to search and filter these deployments quickly became evident.
 
 I worked with the API team to design compatible server side filtering functionality. I researched and designed the UI for basic and advanced search. I also implemented the feature and managed the internal and external release to users.
+
+Some of the main design challenges I faced were centred around different user groups have very different use cases for the feature. For example, some users want the search to default to certain filters, while others wanted to be able to save their filters and reapply them later. Balancing all these requirements to build one product, required flexibility and significant testing.
 
 ![search.png](./search.png)
 
@@ -92,7 +96,11 @@ The current web app had poor loading times for users with large numbers of deplo
 
 New APIs had been built, and our team was tasked with reimplementing the web app to hit these APIs, focusing on ensuring that it would still work well when users had 10,000 deployments.
 
-A structural redesign of the sitemap was also needed to reflect changes in how the API stored deployment data.
+A structural redesign of the sitemap was also needed to reflect changes in how the API stored deployment data. We wanted users to focus on viewing different runs of the same deployment, rather than different deployments in their project. This was due to the realisation that external customers often only had one project, so the multi-project focused view was only useful internally. This change in the information hierarchy we wanted to present was central to our work in redesigning for the Console to work at scale.
+
+![pfc-old.png](./pfc-old.png)
+
+<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Original landing page, showing a user all their projects, then drilling down into the deployments in that project, runs were not visible.</p>
 
 ![pfc_original.png](./pfc_original.png)
 
