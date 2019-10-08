@@ -44,7 +44,7 @@ As a result, a secondary task of building a JSON file generator UI was cut from 
 
 ![create-modal.png](./create-modal.png)
 
-<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">As users fill in basic deployment information, the overview on the right updates. The navigation bar on top shows them the steps they have to take to create a deployment and what stage they're at.</p>
+<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">As users fill in basic deployment information, the overview on the right updates. The navigation bar on top shows them the steps they have to take to create a deployment and what stage they are at.</p>
 
 ![create-modal-snapshot.png](./create-modal-snapshot.png)
 
@@ -58,7 +58,7 @@ Following the redesign of the Console to support large numbers of deployments (1
 
 I worked with the API team to design compatible server side filtering functionality. I researched and designed the UI for basic and advanced search. I also implemented the feature and managed the internal and external release to users.
 
-Some of the main design challenges I faced were centred around different user groups have very different use cases for the feature. For example, some users want the search to default to certain filters, while others wanted to be able to save their filters and reapply them later. Balancing all these requirements to build one product, required flexibility and significant testing.
+Some of the main design challenges I faced were centred around different user groups having very different use cases for the feature. For example, some users wanted the search to default to certain filters, while others wanted to be able to save their filters and reapply them later. Balancing all these requirements to build one product required flexibility and compromise.
 
 ![search.png](./search.png)
 
@@ -104,7 +104,7 @@ A structural redesign of the sitemap was also needed to reflect changes in how t
 
 ![pfc_original.png](./pfc_original.png)
 
-<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Current design of the new page, with support with 10,000 deployments</p>
+<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Current design of the new page, with support for 10,000 deployments</p>
 
 ![create.png](./create.png)
 
