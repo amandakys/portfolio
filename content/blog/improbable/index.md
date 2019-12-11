@@ -1,6 +1,6 @@
 ---
 title: Improbable Worlds Ltd.
-date: "2019-05-08"
+date: "2019-12-05"
 thumbnail: ./improbable.png
 description: "User Experience Engineer"
 ---
