@@ -1,6 +1,6 @@
 ---
 title: Improbable Worlds Ltd.
-date: "2019-05-08"
+date: "2019-12-08"
 thumbnail: ./improbable.png
 description: "User Experience Engineer"
 ---
@@ -32,7 +32,7 @@ As these projects are ongoing, I am limited in the details and visuals of these 
     <a href="#scale" style="white-space: nowrap">Redesigning a Web App for Scale</a><br>
 </p>
 
-<a name="create" style="display: block; position: relative; top: -7vw"></a>
+<a name="create" style="display: block; position: relative; top: -9vw"></a>
 
 #### DESIGNING THE CREATE DEPLOYMENT FLOW
 
@@ -50,7 +50,7 @@ As a result, a secondary task of building a JSON file generator UI was cut from 
 
 <p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">The snapshot step, like assemblies and config requires more complex user inputs</p>
 
-<a name="search" style="display: block; position: relative; top: -6vw"></a>
+<a name="search" style="display: block; position: relative; top: -9vw"></a>
 
 #### SCALABLE SEARCH
 
@@ -64,7 +64,7 @@ Some of the main design challenges I faced were centred around different user gr
 
 <p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Mock up for advanced search functionality</p>
 
-<a name="brand" style="display: block; position: relative; top: -6vw"></a>
+<a name="brand" style="display: block; position: relative; top: -9vw"></a>
 
 #### REDESIGNING FOR BRAND ALIGNMENT
 
@@ -86,7 +86,7 @@ New brand guidelines were supplied by the marketing team and the team was tasked
 
 <p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Redesign Option 2</p>
 
-<a name="scale" style="display: block; position: relative; top: -6vw"></a>
+<a name="scale" style="display: block; position: relative; top: -9vw"></a>
 
 #### REDESIGNING A WEB APP FOR SCALE
 

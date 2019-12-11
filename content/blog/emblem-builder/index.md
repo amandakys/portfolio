@@ -1,6 +1,6 @@
 ---
 title: Emblem Builder
-date: "2019-05-07"
+date: "2019-12-07"
 thumbnail: ./emblemcover.png
 description: "Designed to provide in-game customisation and create greater player engagement"
 casestudy: true

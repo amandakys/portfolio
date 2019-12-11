@@ -13,4 +13,4 @@ description: "Graphic Designer"
 
 ![sticker.png](./sticker.png)
 
-<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Promtional Sticker</P>
+<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Promotional Sticker</P>
