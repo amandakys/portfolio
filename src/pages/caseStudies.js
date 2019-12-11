@@ -15,7 +15,7 @@ const BlogIndex = ({ data }, location) => {
   let postCounter = 0
 
   return (
-    <Layout title={siteTitle}>
+    <Layout page={"case-studies"} title={siteTitle}>
       <SEO
         title="Case studies"
         keywords={[`blog`, `gatsby`, `javascript`, `react`]}
@@ -30,7 +30,7 @@ const BlogIndex = ({ data }, location) => {
           <p>
             detailed write ups of some projects
             <br />
-            thoughts, musings and process
+            design process, prototypes & implementation details
           </p>
         </header>
       )}

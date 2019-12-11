@@ -13,7 +13,7 @@ const AboutPage = ({ data }, location) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
-    <Layout title={siteTitle}>
+    <Layout page={"about"} title={siteTitle}>
       <SEO title="About" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
 
       <article className="post-content page-template no-image">
