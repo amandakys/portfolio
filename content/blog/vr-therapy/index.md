@@ -3,6 +3,7 @@ title: VR Therapy
 date: "2019-12-05"
 thumbnail: ./Stage4Menu.png
 description: "A Virtual Reality platform for administering Self Attachment Therapy"
+casestudy: true
 ---
 
 My undergraduate individual project was to research, design and build a virtual reality platform for administering Self-Attachment therapy. A full copy of my thesis is available <a href="./thesis.pdf" download>here</a>.

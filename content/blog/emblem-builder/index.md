@@ -2,6 +2,8 @@
 title: Emblem Builder
 date: "2019-05-07"
 thumbnail: ./emblemcover.png
+description: "Designed to provide in-game customisation and create greater player engagement"
+casestudy: true
 ---
 
 ## MY ROLE
