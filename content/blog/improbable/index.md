@@ -1,7 +1,7 @@
 ---
-title: Improbable
+title: Improbable Worlds Ltd.
 date: "2019-05-08"
-thumbnail: ./dpl2_redesign2.png
+thumbnail: ./improbable.png
 description: "User Experience Engineer"
 ---
 

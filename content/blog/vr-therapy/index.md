@@ -1,6 +1,6 @@
 ---
 title: VR Therapy
-date: "2019-05-05"
+date: "2019-12-05"
 thumbnail: ./Stage4Menu.png
 description: "A Virtual Reality platform for administering Self Attachment Therapy"
 ---
