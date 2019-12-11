@@ -15,19 +15,23 @@ const BlogIndex = ({ data }, location) => {
   let postCounter = 0
 
   return (
-    <Layout page={"home"} title={siteTitle}>
+    <Layout page={"case-studies"} title={siteTitle}>
       <SEO
-        title="All posts"
+        title="Case studies"
         keywords={[`blog`, `gatsby`, `javascript`, `react`]}
       />
       {/* <Bio /> */}
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">
-            designer | developer <br />
-            london, uk
+            case studies
             {/* {data.site.siteMetadata.description} */}
           </h2>
+          <p>
+            detailed write ups of some projects
+            <br />
+            design process, prototypes & implementation details
+          </p>
         </header>
       )}
       <div className="post-feed">
@@ -55,7 +59,10 @@ const indexQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { casestudy: { eq: true } } }
+    ) {
       edges {
         node {
           excerpt

@@ -7,7 +7,7 @@ description: "User Experience Engineer"
 
 ## MY ROLE
 
-I currently work as a **User Experience Engineer** on the Web UIs team at Improbable. As part of my role, I develop single page applications used to develop with Improbable software SpatialOS. The main technology stack is React, Typescript, Redux, Webpack.
+I currently work as a **User Experience Engineer** on the Web UIs team at <a href="https://improbable.io" target="_blank" rel="noopener noreferrer"> Improbable</a>. As part of my role, I develop single page applications used to develop with Improbable software SpatialOS. The main technology stack is React, Typescript, Redux, Webpack.
 
 Other responsibilities include:
 

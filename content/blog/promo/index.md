@@ -3,6 +3,7 @@ title: Promo
 date: "2019-05-04"
 thumbnail: ./promocover.png
 description: Developed in response to the growing marketing potential of personal branding on social media platforms, Promo manages the interactions between social influencers and product marketing teams.
+casestudy: true
 ---
 
 ## MY ROLE
