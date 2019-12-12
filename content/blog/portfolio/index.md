@@ -1,6 +1,6 @@
 ---
 title: Portfolio Website
-date: "2019-12-07"
+date: "2019-12-05"
 thumbnail: ./portfolio.png
 description: "Building my first website from scratch"
 casestudy: true
