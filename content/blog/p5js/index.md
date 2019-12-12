@@ -1,7 +1,7 @@
 ---
 title: p5.js
 date: "2019-12-08"
-thumbnail: ./sparks.png
+thumbnail: ./spark.png
 description: "Experiments with p5.js library"
 ---
 
