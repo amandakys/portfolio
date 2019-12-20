@@ -9,4 +9,14 @@ Inspired by the creative coding community on Instagram ([@zach.lieberman](https:
 
 The community on codepen.io was very helpful for finding inspiration, and looking at other people's work and code really helped me understand what was possible and how to get started.
 
-https://codepen.io/amandakys/pen/bGNpXyy
+<iframe height="436" style="width: 100%;" scrolling="no" title="Sparks" src="https://codepen.io/amandakys/embed/preview/bGNpXyy?height=436&theme-id=dark&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/amandakys/pen/bGNpXyy'>Sparks</a> by Amanda Koh
+  (<a href='https://codepen.io/amandakys'>@amandakys</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
+<div style="height: 4vw"></div>
+
+<iframe height="436" style="width: 100%;" scrolling="no" title="Magnetic" src="https://codepen.io/amandakys/embed/preview/eYmvrpE?height=265&theme-id=dark&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/amandakys/pen/eYmvrpE'>Magnetic</a> by Amanda Koh
+  (<a href='https://codepen.io/amandakys'>@amandakys</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
