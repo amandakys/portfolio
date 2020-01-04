@@ -95,20 +95,6 @@ module.exports = {
         icon: `content/assets/ak.png`,
       },
     },
-    {
-      resolve: "gatsby-transformer-remark",
-      options: {
-        plugins: [
-          {
-            resolve: "@weknow/gatsby-remark-codepen",
-            options: {
-              theme: "dark",
-              height: 400,
-            },
-          },
-        ],
-      },
-    },
     `gatsby-plugin-netlify`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
