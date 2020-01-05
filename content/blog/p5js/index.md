@@ -16,7 +16,7 @@ The community on codepen.io was very helpful for finding inspiration, and lookin
 
 <div style="height: 4vw"></div>
 
-<iframe height="436" style="width: 100%;" scrolling="no" title="Magnetic" src="https://codepen.io/amandakys/embed/preview/eYmvrpE?height=265&theme-id=dark&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/amandakys/pen/eYmvrpE'>Magnetic</a> by Amanda Koh
+<iframe height="436" style="width: 100%;" scrolling="no" title="Magnetic" src="https://codepen.io/amandakys/embed/preview/zYxZjvp?height=265&theme-id=dark&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/amandakys/pen/zYxZjvp'>Magnetic</a> by Amanda Koh
   (<a href='https://codepen.io/amandakys'>@amandakys</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
