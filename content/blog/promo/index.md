@@ -108,7 +108,7 @@ The colour coding and ‘mirrored’ design was the result of these investigatio
   </div>
 </div>
 
-<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Animated slideshow of the screens designed for Version 1. Exported from Adobe XD.</p>
+<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Influencers can manage offers they've received or successfully bid for and Promotors can manage the bids they've received for each job they've posted.</p>
 
 <div style="display: flex;">
   <div style="flex: 50%; padding: 5px;">
@@ -119,7 +119,7 @@ The colour coding and ‘mirrored’ design was the result of these investigatio
   </div>
 </div>
 
-<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Animated slideshow of the screens designed for Version 1. Exported from Adobe XD.</p>
+<p align="center" style="font-size: 0.8em; position: relative; top: -4vw;">Promoters can view the details of a bid and Influencers can view the details of an offer before accepting, rejecting or negotiating.</p>
 
 <a name="pitch" style="display: block; position: relative; top: -6vw"></a>
 
