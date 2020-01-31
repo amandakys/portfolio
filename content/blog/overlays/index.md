@@ -1,7 +1,7 @@
 ---
 title: Overlays
 date: "2015-04-29"
-thumbnail: ./gardensoverlay.jpg
+thumbnail: ./gardensoverlay.png
 description: This project mixes art and reality to see how shapes and patterns fit into scenes of our daily life.
 ---
 
