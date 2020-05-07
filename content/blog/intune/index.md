@@ -77,7 +77,7 @@ In line with our focus on collaboration, we wanted our platform to be a communit
 
 #### THE CENTRAL EXPERIENCE
 
-The majority of the application’s core functionality was built around the central function of editing a composition. It presented a challenge as in terms of screen design as it was important that each feature got adequate but suitable screen real estate and featuring. Similarly, designing how they all interacted with each other to create a intuitive composition workflow required significant trial and error. This is discussed further in Key Design Decisions.
+The majority of the application’s core functionality was built around the central function of editing a composition. It presented a challenge in terms of screen design as it was important that each feature got adequate but suitable screen real estate and featuring. Similarly, designing how they all interacted with each other to create a intuitive composition workflow required significant trial and error. This is discussed further in Key Design Decisions.
 
 ![edit-composition-action-flow.png](./edit-composition-action-flow.png)
 

@@ -80,7 +80,7 @@ Before starting to prototype the interface, I had to pitch the emblem creation p
 
 <p align="center" style="font-size: 0.8em; position: relative;">Interactive prototype of final emblem builder design</p>
 
-One of the key frictions in previous iterations was the display of the layers. I couldn’t decide whether the top most layer should be shown on the right or left, and similarly which side the “Add New Layer” should be on. Interviewing several of my team for input led to a huge variety of views on what set up would ‘make sense’. **I realised that if what was right wasn’t clear, perhaps of whole approach was fundamentally counter-intuitive.**
+One of the key frictions in previous iterations was the display of the layers. I couldn’t decide whether the top most layer should be shown on the right or left, and similarly which side the “Add New Layer” should be on. Interviewing several of my team for input led to a huge variety of views on what set up would ‘make sense’. **I realised that if what was right wasn’t clear, perhaps the whole approach was fundamentally counter-intuitive.**
 
 This version was designed with a **vertical layer stack** in mind. This way there would be no dispute as to which was the top layer. It is also the version which I feel truly shed the influence of the console/PC versions I had initially used as inspiration. I also **maximised the canvas area** in line with the decision in Version 3 to **fully commit to touch gestures** as the main method of interacting with shapes. This was instead of the ‘full screen mode’ I had previously incorporated to give users a screen with a larger canvas.
 
@@ -135,7 +135,7 @@ For example, in this version users the menu options refer only to one layer at a
 While Version 2 represented a significant simplification of Version 1, the general feedback was that it still felt clunky and crowded. It was fine for a tablet sized device, but for mobile sized devices would still be too fiddly. To simplify the interface further I stripped back the functionality I wanted to provide.
 
 <ol>
-  <li>I removed the transform menu and thus the ability to control scale and position via on screen controls. Users would just have to use touch gestures. I also removed the preview of the selected shape in the menu.</li>
+  <li>I removed the transform menu and thus the ability to control scale and position via on screen controls. Users would just have to use touch gestures. </li>
   <li>I removed the shape preview from the menu. Previously after selecting a shape, a larger preview would be shown in the menu and colour applied to this preview before being added to the canvas. However, I realised this was extraneous as the shape could just be immediately previewed on the canvas.</li>
 </ol>
 
