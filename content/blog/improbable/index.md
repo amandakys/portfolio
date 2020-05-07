@@ -22,9 +22,15 @@ Other responsibilities include:
 
 ## PROJECTS
 
-As these projects are ongoing, I am limited in the details and visuals of these projects that I can provide, but I have provided a basic overview.
+As these projects are ongoing, I am limited in the details and visuals of these projects that I can provide, but I have provided a basic overview. For detailed write ups of design process, see Case Studies. For higher level overviews of the type of projects I've worked on see Page Contents.
 
-<h4 align="center">CONTENTS</h4>
+<h4 align="center">CASE STUDIES</h4>
+<p align="center">
+    <a href="./projects/ux-improvements" style="white-space: nowrap">Design Improvements for a Cloud Deployment Platform </a><br>
+    <a href="./projects/user-management" style="white-space: nowrap">Understanding User Management </a><br>
+</p>
+
+<h4 align="center">PAGE CONTENTS</h4>
 <p align="center">
     <a href="#create" style="white-space: nowrap">Designing the Create Deployment Flow</a><br>
     <a href="#search" style="white-space: nowrap">Scalable Search</a><br>
