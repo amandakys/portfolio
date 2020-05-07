@@ -31,7 +31,7 @@ However, the eventual product vision was to build a new SPA that integrated the 
 
 ## MY ROLE
 
-As a <a href="../../improbable" target="_blank" rel="noopener noreferrer"> User Experience Engineer</a> on Improbable's Web UIs team, I was asked to evaluate the Company X platform for potential UX improvements in both the short and long term. While the primary outcome of this work was to be improvements that would be valuable despite an 18 month lifetime for the platform, a secondary outcome of this work was to be insights for the future design of an integrated platform.
+As a <a href="../../"> User Experience Engineer</a> on Improbable's Web UIs team, I was asked to evaluate the Company X platform for potential UX improvements in both the short and long term. While the primary outcome of this work was to be improvements that would be valuable despite an 18 month lifetime for the platform, a secondary outcome of this work was to be insights for the future design of an integrated platform.
 
 <a name="process" style="display: block; position: relative; top: -6vw"></a>
 

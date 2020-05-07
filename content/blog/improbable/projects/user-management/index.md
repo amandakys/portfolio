@@ -29,7 +29,7 @@ The permission management system was very complex and very customisable. We want
 
 ## MY ROLE
 
-As a <a href="../../improbable" target="_blank" rel="noopener noreferrer"> User Experience Engineer</a> on Improbable's Web UIs team, I helped our lead designer understand how the permission management system worked in the back end, how users were expected to interact with the different concepts, map out various potential user flows. The primary outcome of my work was to be a design proposal for the User Management UI in the new platform.
+As a <a href="../../"> User Experience Engineer</a> on Improbable's Web UIs team, I helped our lead designer understand how the permission management system worked in the back end, how users were expected to interact with the different concepts, map out various potential user flows. The primary outcome of my work was to be a design proposal for the User Management UI in the new platform.
 
 <a name="process" style="display: block; position: relative; top: -6vw"></a>
 
