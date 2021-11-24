@@ -1,6 +1,6 @@
 ---
 title: Improving a Cloud Deployment Platform
-date: "2020-02-09"
+date: "2020-02-10"
 thumbnail: ./cloud2.png
 description: "Evaluating a newly acquired platform for UX improvements"
 homepage: false
