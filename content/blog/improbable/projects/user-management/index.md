@@ -1,6 +1,6 @@
 ---
 title: Understanding User Management
-date: "2020-02-10"
+date: "2020-02-09"
 thumbnail: ./display-image.png
 description: "Designing a web interface for new permissions management system"
 casestudy: true
