@@ -98,5 +98,12 @@ module.exports = {
     `gatsby-plugin-netlify`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
+    {
+      resolve: "@mkitio/gatsby-theme-password-protect",
+      options: {
+        password: "H@ckMe1fY0uCan", // delete or `undefined` to disable password protection
+        pagePaths: ["/maven/"],
+      },
+    },
   ],
 }

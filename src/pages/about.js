@@ -21,15 +21,15 @@ const AboutPage = ({ data }, location) => {
           <h3 id="dynamic-styles">hi! i'm amanda</h3>
           <p align="center">
             I'm a designer/developer based in London, UK. I moved here from
-            Sydney, Australia 4 years ago. I currently work as a
-            <a href="/improbable"> User Experience Engineer</a> at
+            Sydney, Australia 8 years ago. I currently work as a Technical UX
+            Designer at
             <a
-              href="https://improbable.io"
+              href="https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients"
               target="_blank"
               rel="noopener noreferrer"
             >
               {" "}
-              Improbable
+              QuantumBlack
             </a>
             .
           </p>

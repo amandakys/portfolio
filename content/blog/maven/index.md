@@ -1,7 +1,7 @@
 ---
 title: Maven Securities Ltd.
 date: "2021-11-09"
-thumbnail: ./cover.png
+thumbnail: ./private.png
 description: "User Experience Designer"
 casestudy: true
 ---
