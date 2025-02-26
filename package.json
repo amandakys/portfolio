@@ -77,5 +77,8 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
+  },
+  "overrides": {
+    "undici": "5.28.4"
   }
 }
