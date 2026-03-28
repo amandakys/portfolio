@@ -17,7 +17,7 @@
     "gatsby-plugin-google-analytics": "^2.1.14",
     "gatsby-plugin-manifest": "^2.2.14",
     "gatsby-plugin-netlify": "^2.1.11",
-    "gatsby-plugin-offline": "^2.2.10",
+    "gatsby-plugin-offline": "^3.10.2",
     "gatsby-plugin-postcss": "^2.1.6",
     "gatsby-plugin-purgecss": "^3.1.1",
     "gatsby-plugin-react-helmet": "^3.1.6",
@@ -41,6 +41,9 @@
     "typeface-montserrat": "0.0.54",
     "typeface-nunito": "^0.0.72",
     "url-join": "^4.0.0"
+  },
+  "overrides": {
+    "undici": "5.28.4"
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
